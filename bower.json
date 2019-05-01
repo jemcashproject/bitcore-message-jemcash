@@ -1,0 +1,29 @@
+{
+  "name": "bitcore-message-jemcash",
+  "main": "./bitcore-message.min.js",
+  "version": "1.0.3",
+  "homepage": "https://github.com:jemcashproject/bitcore-message-jemcash",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "Bitcoin Message Verification and Signing for Bitcore Jemcash",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
